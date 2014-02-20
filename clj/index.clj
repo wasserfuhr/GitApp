@@ -1,1 +1,1 @@
-(fn [request response] "HelloWorld")
+(fn [request response] "HelloGitApp")
